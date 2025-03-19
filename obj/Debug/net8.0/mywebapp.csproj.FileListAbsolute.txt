@@ -28,3 +28,4 @@ C:\Users\User\Desktop\ASP.net C# razor syntax\mywebapp\obj\Debug\net8.0\refint\m
 C:\Users\User\Desktop\ASP.net C# razor syntax\mywebapp\obj\Debug\net8.0\mywebapp.pdb
 C:\Users\User\Desktop\ASP.net C# razor syntax\mywebapp\obj\Debug\net8.0\mywebapp.genruntimeconfig.cache
 C:\Users\User\Desktop\ASP.net C# razor syntax\mywebapp\obj\Debug\net8.0\ref\mywebapp.dll
+C:\Users\User\Desktop\ASP.net C# razor syntax\mywebapp\obj\Debug\net8.0\mywebapp.sourcelink.json
